@@ -2,7 +2,7 @@
 
 This project was created to practice data analysis and visualization using Python and SQL.
 
-In this project, I worked with retail sales data to understand customer purchasing behavior, identify sales trends, analyze product performance, and generate business insights. The project includes data cleaning, exploratory data analysis (EDA), visualizations, and a simple interactive dashboard built using Streamlit.
+In this project, I worked with retail sales data to understand customer purchasing behavior, identify sales trends, analyze product performance, and generate business insights. The project includes data cleaning, exploratory data analysis (EDA), visualizations, and a simple interactive dashboard built.
 
 # What I Did
 
